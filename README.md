@@ -11,7 +11,6 @@ Here are a few links that I could find on the history of the company:
 
 * http://www.theverge.com/2015/2/2/7964663/why-every-photo-storage-startup-dies-or-gets-acquired
 * https://www.engadget.com/2016/02/09/streamnation-service-shuts-down-march-8/
-* 
 
 ## Logging In
 
