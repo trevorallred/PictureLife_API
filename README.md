@@ -3,9 +3,15 @@
 ## About Picturelife
 Picturelife (https://picturelife.com/) is a free (with paid premium) cloud service that gets all of your personal and mobile photos in one place, secure, searchable and easy to share.
 
-In early 2016, Picturelife was reportedly sold to another company. Shortly after the site went offline and since then the service has had numerous problems. The largest and most concerning issue was the inability to download any of the photos.
+In early 2016, Picturelife was reportedly sold to StreamNation but since March 2016 the both seem to have struggled and service has had numerous problems. The largest and most concerning issue was the inability to download any of the photos.
 
-I believe that there are 2 employees currently working at Picturelife. The new company also doesn't seem to actually exist.
+I believe that there are 2 employees ([Charles Forman](https://www.linkedin.com/in/iminlikewithyou) and [Brian Bosen](https://www.linkedin.com/in/brian-bosen-148aa82)) currently working at Picturelife. StreamNation's website is offline at this point even though the found [Jonathan Benassaya](https://www.linkedin.com/in/jbenassaya) still says he works there. The Picturelife [Twitter account](https://twitter.com/picturelife) only responds sporadically and vaguley.
+
+Here are a few links that I could find on the history of the company:
+
+* http://www.theverge.com/2015/2/2/7964663/why-every-photo-storage-startup-dies-or-gets-acquired
+* https://www.engadget.com/2016/02/09/streamnation-service-shuts-down-march-8/
+* 
 
 ## Logging In
 
